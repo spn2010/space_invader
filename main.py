@@ -7,7 +7,7 @@ from pygame import mixer
 pygame.init()
 
 # Create the screen
-screen = pygame.display.set_mode((1800, 1000))
+screen = pygame.display.set_mode((800, 534))
 
 # Background
 background = pygame.image.load('background.png')
